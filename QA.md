@@ -3,7 +3,7 @@
 
 Primary and secondary key uniqueness
 null values distribution
-# record without a match (JOIN) 
+record without a match (JOIN) 
 search duplicates
 missing or incoherent data
 incompatible/negative numbers
